@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <!--primary color :-->
+    <!--500 &#45;&#45; #FF335C-->
+    <!--100 &#45;&#45; #FFF0F3-->
+    <!--700 &#45;&#45; #F50031-->
+    <!--800 &#45;&#45; #D6002B-->
+
+
+    <!--secondary color :-->
+    <!--A200 &#45;&#45; #9FD4F9-->
+    <!--A100 &#45;&#45; #D4ECFC-->
+    <!--A400 &#45;&#45; #3FA8F4-->
+
+<resources>
+    <item name="primary_500" type="color">#FF335C</item>
+    <item name="primary_100" type="color">#FFF0F3</item>
+    <item name="primary_700" type="color">#F50031</item>
+    <item name="primary_800" type="color">#D6002B</item>
+
+    <item name="secondary_200" type="color">#9FD4F9</item>
+    <item name="secondary_100" type="color">#D4ECFC</item>
+    <item name="secondary_400" type="color">#3FA8F4</item>
+</resources>
