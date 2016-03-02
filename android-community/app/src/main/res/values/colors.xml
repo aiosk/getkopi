@@ -20,4 +20,6 @@
     <item name="secondary_200" type="color">#9FD4F9</item>
     <item name="secondary_100" type="color">#D4ECFC</item>
     <item name="secondary_400" type="color">#3FA8F4</item>
+
+    <item name="white" type="color">#FFFFFF</item>
 </resources>
